@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript 5 superscript 2 open parentheses x over y close parentheses space plus space fraction numerator 1 over denominator square root of begin display style 2 over 3 end style plus begin display style 3 squared over x to the power of y end style stack sum 1 with 3 below and 4 on top end root end fraction"},"status":"ok"}

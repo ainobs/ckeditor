@@ -1,0 +1,1 @@
+{"result":{"text":"C H subscript 3 C H space equals space C C C H subscript 3 space plus space H Br space space rightwards arrow space C H subscript 3 C H subscript 2 space end subscript minus sign stack stack C C H subscript 3 with stack C H subscript 3 with vertical line on top below with vertical line with Br on top on top\n\n\n\n\nspace\n"},"status":"ok"}
