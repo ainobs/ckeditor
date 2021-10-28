@@ -1,1 +1,0 @@
-{"result":{"text":"square root of cube root of 67 end root"},"status":"ok"}

@@ -1,1 +1,0 @@
-{"result":{"text":"2 over 5 plus open parentheses square root of 8 close parentheses"},"status":"ok"}

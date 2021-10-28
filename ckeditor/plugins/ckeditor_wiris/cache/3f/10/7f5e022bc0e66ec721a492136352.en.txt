@@ -1,1 +1,0 @@
-{"result":{"text":"sum from 4 to 1 of"},"status":"ok"}

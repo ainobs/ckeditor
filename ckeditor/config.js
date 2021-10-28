@@ -38,4 +38,8 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Add[MT]to the integration list
     config.extraPlugins += (config.extraPlugins.length == 0 ? '' : ',') + 'ckeditor_wiris';
+
+	// config.extraPlugins = 'chart';
+	// config.extraPlugins = 'widget';
+	// config.extraPlugins = 'dialog';
 };

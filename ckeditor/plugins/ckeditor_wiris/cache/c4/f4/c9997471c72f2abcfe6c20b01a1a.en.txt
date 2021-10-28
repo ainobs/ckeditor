@@ -1,1 +1,0 @@
-{"result":{"text":"5 over 6 open parentheses square root of 25 close parentheses"},"status":"ok"}
